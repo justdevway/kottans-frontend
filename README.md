@@ -39,8 +39,8 @@ HTTP - shoud know everyone dev. In future we will know it in more details.
 
 ## Git Collaboration
 
-![Repeat git commands](task_linux_cli/cli.jpg)
-![Describe how to work with remote repository](task_linux_cli/cli.jpg)
+![Repeat git commands](task_git_collaboration//git_collaboration_1.jpg)
+![Describe how to work with remote repository](task_git_collaboration//git_collaboration_2.jpg)
 
 I think this two task help me learn git in details. I have increased my knowledge about git log and learned more about work with remote repository.
 In future I will definitely use git log --stat --oneline :)
