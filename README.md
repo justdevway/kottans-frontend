@@ -24,3 +24,13 @@ I liked https://learngitbranching.js.org . This resourse improve my knowledge ab
     fetch - synс local and remote
   </li>
 </ul>
+
+----------------------------------------------------------------
+
+## Linux CLI, and HTTP
+
+![CLI - help, HTTP - need know](task_linux_cli/cli.jpg)
+
+CLI - relly help if you want to make some little change in your filesystem or file. Also can help make commands easier if you want to configure your work environment. :) 
+
+HTTP - shoud know everyone dev. In future we will know it in more details.
