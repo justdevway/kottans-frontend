@@ -44,3 +44,14 @@ HTTP - shoud know everyone dev. In future we will know it in more details.
 
 I think this two task help me learn git in details. I have increased my knowledge about git log and learned more about work with remote repository.
 In future I will definitely use git log --stat --oneline :)
+
+----------------------------------------------------------------
+
+## Intro to HTML and CSS
+
+![Repeated info about HTML & CSS](task_html_css_intro/task_html_css_intro_1.jpg)
+![Repeated info about HTML](task_html_css_intro/task_html_css_intro_2.jpg)
+![Repeated info about CSS](task_html_css_intro/task_html_css_intro_3.jpg)
+
+I have repeated information about HTML/CSS and it semantic value. 
+In future I want to make product with full semantic, with semantic that seo developers will not broken :)
