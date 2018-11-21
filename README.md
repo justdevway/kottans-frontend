@@ -3,7 +3,7 @@ I liked https://learngitbranching.js.org . This resourse improve my knowledge ab
 </p>
 <ul>
   <li>
-    reset - undoing canges
+    reset - undoing changes
   </li>
   <li>
     revert - add new commit with some changes for all who work on current branch
