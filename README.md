@@ -55,3 +55,14 @@ In future I will definitely use git log --stat --oneline :)
 
 I have repeated information about HTML/CSS and it semantic value. 
 In future I want to make product with full semantic, with semantic that seo developers will not broken :)
+
+
+----------------------------------------------------------------
+
+## Responsive Web Design
+
+![Work with respons](task_responsive_web_design/task_responsive_web_design_1.jpg)
+![Frog, frog, frog](task_responsive_web_design/task_responsive_web_design_2.jpg)
+
+I have repeated information about responsive web design, studied info about optimization and other for good mobile page. 
+Frog, frog :) Already played, but also interesting
