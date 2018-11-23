@@ -56,7 +56,6 @@ In future I will definitely use git log --stat --oneline :)
 I have repeated information about HTML/CSS and it semantic value. 
 In future I want to make product with full semantic, with semantic that seo developers will not broken :)
 
-
 ----------------------------------------------------------------
 
 ## Responsive Web Design
@@ -66,3 +65,15 @@ In future I want to make product with full semantic, with semantic that seo deve
 
 I have repeated information about responsive web design, studied info about optimization and other for good mobile page. 
 Frog, frog :) Already played, but also interesting
+
+----------------------------------------------------------------
+
+## JS Basics
+
+![Base knowledge about js](task_js_basics/task_js_basics_1.jpg)
+![Have fun with tasks](task_js_basics/task_js_basics_2.jpg)
+
+I have repeated basic information about JS. 
+Task with algorith was interesting. Understand that in free time I need to solve task like this because it fun and useful for work
+
+
