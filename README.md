@@ -76,4 +76,14 @@ Frog, frog :) Already played, but also interesting
 I have repeated basic information about JS. 
 Task with algorith was interesting. Understand that in free time I need to solve task like this because it fun and useful for work
 
+----------------------------------------------------------------
+
+## DOM
+
+![Base knowledge about js in DOM](task_js_basics/task_js_basics_1.jpg)
+![Have fun with ](task_js_basics/task_js_basics_2.jpg)
+
+I have practice task, try to more understand callback function. Need learn about it more :)
+Now I know, that  async/await give us really syntax sugar.
+
 
