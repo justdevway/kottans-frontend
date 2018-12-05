@@ -87,3 +87,16 @@ I have practice task, try to more understand callback function. Need learn about
 Now I know, that  async/await give us really syntax sugar.
 
 
+----------------------------------------------------------------
+
+## A Tiny JS World
+
+[Demo](https://justdevway.github.io/a-tiny-JS-world/)
+<br>
+[Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world/index.js)
+<br>
+Reviewed and approved by @OleksiyRudenko 
+
+Now I more understand how to work with object and how to correct to divide some instance to other instance.
+
+
