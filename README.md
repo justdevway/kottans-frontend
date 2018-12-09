@@ -72,9 +72,11 @@ Frog, frog :) Already played, but also interesting
 
 ![Base knowledge about js](task_js_basics/task_js_basics_1.jpg)
 ![Have fun with tasks](task_js_basics/task_js_basics_2.jpg)
+![Really hard](task_js_basics/task_js_basics_3.jpg)
 
 I have repeated basic information about JS. 
 Task with algorith was interesting. Understand that in free time I need to solve task like this because it fun and useful for work
+Now I am understand that need learn algoritm more depth. Вefinitely need to disassemble and apply to practical examples.
 
 ----------------------------------------------------------------
 
@@ -98,5 +100,35 @@ Now I know, that  async/await give us really syntax sugar.
 Reviewed and approved by @OleksiyRudenko 
 
 Now I more understand how to work with object and how to correct to divide some instance to other instance.
+
+----------------------------------------------------------------
+
+## Object Oriented JS
+
+![Base knowledge about OOP in JS](task_js_oop/task_js_oop_1.jpg)
+![Have fun with Codewars](task_js_oop/task_js_oop_2.jpg)
+
+[Demo](https://justdevway.github.io/frogger/)
+[Request](https://github.com/kottans/frontend-2019-homeworks/pull/78)
+Review not passed yet
+
+<br>
+<!-- [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world/index.js)
+<br> -->
+
+Try to understand OOP concept in JS. Alse learn more about closure, bubling and other. Made some oop-exercise, but in future I will update it more clearly.
+
+----------------------------------------------------------------
+
+## OOP Exercise
+
+[Demo](https://justdevway.github.io/frontend-2019-homeworks/)
+[Request](https://github.com/kottans/frontend-2019-homeworks/pull/81);
+Review not passed yet
+<br>
+<!-- [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world/index.js)
+<br> -->
+
+Learn more about SOLID and DRY principles. Refactored code according to ES6.
 
 
