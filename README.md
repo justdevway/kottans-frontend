@@ -131,4 +131,12 @@ Review not passed yet
 
 Learn more about SOLID and DRY principles. Refactored code according to ES6.
 
+----------------------------------------------------------------
+
+## Offline Web Applications
+
+![Learn more about internet](task_js_oop/task_js_oop_1.jpg)
+<br>
+
+In more details learn  how internet work, about encription and how to write API. I future I want to try write API accocrding to right principles :)
 
