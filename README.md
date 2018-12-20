@@ -95,7 +95,7 @@ Now I know, that  async/await give us really syntax sugar.
 
 [Demo](https://justdevway.github.io/a-tiny-JS-world/)
 <br>
-[Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world/index.js)
+[Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world)
 <br>
 Reviewed and approved by @OleksiyRudenko 
 
@@ -109,8 +109,10 @@ Now I more understand how to work with object and how to correct to divide some 
 ![Have fun with Codewars](task_js_oop/task_js_oop_2.jpg)
 
 [Demo](https://justdevway.github.io/frogger/)
-[Request](https://github.com/kottans/frontend-2019-homeworks/pull/78)
-Review not passed yet
+<br>
+[Request](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/justdevway/js-oop-frogger)
+<br>
+Reviewed and approved by @OleksiyRudenko 
 
 <br>
 <!-- [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world/index.js)
@@ -122,12 +124,12 @@ Try to understand OOP concept in JS. Alse learn more about closure, bubling and 
 
 ## OOP Exercise
 
-[Demo](https://justdevway.github.io/frontend-2019-homeworks/)
-[Request](https://github.com/kottans/frontend-2019-homeworks/pull/81);
-Review not passed yet
+[Demo](https://justdevway.github.io/a-tiny-JS-world/)
 <br>
-<!-- [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world/index.js)
-<br> -->
+[Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/justdevway/a-tiny-JS-world)
+<br>
+Reviewed and approved by @OleksiyRudenko 
+<br>
 
 Learn more about SOLID and DRY principles. Refactored code according to ES6.
 
