@@ -1,3 +1,5 @@
+[![Kottans-Student-OOP](https://img.shields.io/badge/%3D(%5E.%5E)%3D-extends%20Developer-blue.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+
 <p>
 I liked https://learngitbranching.js.org . This resourse improve my knowledge about git commands, helped remember some options og git that I hadn't used. I made some tip for me, but maybe it will hep someone else :)
 </p>
