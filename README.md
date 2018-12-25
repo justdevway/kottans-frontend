@@ -110,7 +110,7 @@ Now I more understand how to work with object and how to correct to divide some 
 
 [Demo](https://justdevway.github.io/frogger/)
 <br>
-[Request](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/justdevway/js-oop-frogger)
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/justdevway/js-oop-frogger)
 <br>
 Reviewed and approved by @OleksiyRudenko 
 
@@ -137,8 +137,20 @@ Learn more about SOLID and DRY principles. Refactored code according to ES6.
 
 ## Offline Web Applications
 
-![Learn more about internet](task_js_oop/task_js_oop_1.jpg)
+[Learn more about internet](task_js_oop/task_js_oop_1.jpg)
 <br>
 
 In more details learn  how internet work, about encription and how to write API. I future I want to try write API accocrding to right principles :)
 
+----------------------------------------------------------------
+
+## Memory Pair Game
+
+[Demo](https://justdevway.github.io/memory-pair-game/)
+<br>
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/justdevway/memory-pair-game)
+<br>
+Reviewed and approved by @zonzujiro  
+<br>
+
+Try to make game more interactivity (dynamically), not only one lvl. Made some functional with keyboard, it was interesting. Learn more about how to work with variables, how to make code cleaner, but understand what need improve in future. It was really hard work, but it was even more interesting :)
