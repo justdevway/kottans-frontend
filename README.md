@@ -154,3 +154,13 @@ Reviewed and approved by @zonzujiro
 <br>
 
 Try to make game more interactivity (dynamically), not only one lvl. Made some functional with keyboard, it was interesting. Learn more about how to work with variables, how to make code cleaner, but understand what need improve in future. It was really hard work, but it was even more interesting :)
+
+----------------------------------------------------------------
+
+## Website Performance Optimization
+
+![Learn mor about optimization](task_website_performance/task_website_performance.jpg)
+![Looks how browser render elements](task_website_performance/task_website_performance_2.jpg)
+![Image, image, image :)](task_website_performance/task_website_performance_3.jpg)
+
+Learn more about website optimization. Course really very interesting and after some time I will back and learn it again. I think that now web suffering from low site's perfomance in I think this knoledge will help on all my way as developer :)
