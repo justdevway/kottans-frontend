@@ -159,7 +159,7 @@ Try to make game more interactivity (dynamically), not only one lvl. Made some f
 
 ## Website Performance Optimization
 
-![Learn mor about optimization](task_website_performance/task_website_performance.jpg)
+![Learn mor about optimization](task_website_performance/task_website_performance_1.jpg)
 ![Looks how browser render elements](task_website_performance/task_website_performance_2.jpg)
 ![Image, image, image :)](task_website_performance/task_website_performance_3.jpg)
 
