@@ -164,3 +164,16 @@ Try to make game more interactivity (dynamically), not only one lvl. Made some f
 ![Image, image, image :)](task_website_performance/task_website_performance_3.jpg)
 
 Learn more about website optimization. Course really very interesting and after some time I will back and learn it again. I think that now web suffering from low site's perfomance in I think this knoledge will help on all my way as developer :)
+
+----------------------------------------------------------------
+
+## Friends App
+
+[Demo](https://justdevway.github.io/memory-pair-game/)
+<br>
+[Code base](https://justdevway.github.io/friends-app/)
+<br>
+Reviewed and approved by @zonzujiro  
+<br>
+
+Work more with ES6,  learn more about work with DOM, variables and other themes. Try to make code more cleaner and readable. It is reaaly good exercise to understand html/css/js :)
